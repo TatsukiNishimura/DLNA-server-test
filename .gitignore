@@ -1,2 +1,4 @@
-1654/
+media/
+dummy_media/
 .python-version
+__pycache__/
